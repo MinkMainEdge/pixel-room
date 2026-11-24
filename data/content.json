@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A Room For You",
+    "tagline": "a tiny place to rest"
+  },
+  "senderEmail": "decena.arwinjosh.lictaoa@gmail.com",
+  "music": [
+  { "id": "xg_Y7Or_hWM", "title": "Song 1" },
+  { "id": "R5HO5PwmH4Y", "title": "Song 2" },
+  { "id": "QX2dqXr8mOU", "title": "Song 3" }
+],
+  "letter": {
+    "recipientName": "Karlarose",
+    "body": [
+      "I made this little room for you so there is somewhere soft to land when life feels too heavy and draining.",
+      "I know how much you have been carrying lately, and how exhausting it is to keep pushing through every struggle on your own. In here, you don't have to be strong, and you don't have to hold everything together.",
+      "The noise outside can wait. Your worries, the expectations, and the rest of the world can stay at the door. If today only allows one small thing, let it be a deep breath and a quiet place to rest.",
+      "More than anything, I just wanted to remind you that you are never alone in the dark. There is someone who genuinely cares for you, sees how hard you try, and is always in your corner.",
+      "You don't need to reply or explain a thing. Whenever you get tired, this room—and my care for you—will always be right here, with the light on and a warm place for you to rest."
+    ],
+    "senderName": "BUB"
+  },
+  "photos": [
+    {
+      "id": "photo-01",
+      "src": "/photos/1.jpg",
+      "alt": "photo booth shenanigans with you ♡",
+      "caption": "photo booth shenanigans with you ♡"
+    },
+    {
+      "id": "photo-02",
+      "src": "/photos/2.jpg",
+      "alt": "can’t even take a normal selfie haha",
+      "caption": "can’t even take a normal selfie haha"
+    },
+    {
+      "id": "photo-03",
+      "src": "/photos/3.jpg",
+      "alt": "always acting silly together 🤪",
+      "caption": "always acting silly together :P"
+    }
+  ],
+  "videos": [
+    {
+      "id": "video-01",
+      "src": "/video/clip1.mp4",
+      "caption": "a little clip waiting for its moment"
+    }
+  ],
+  "benchMessage": "Sit here as long as you need. The evening can wait. Let this quiet sky remind you that no matter how heavy life gets, there is always someone who truly cares for you and loves you."
+}
